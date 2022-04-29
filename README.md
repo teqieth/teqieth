@@ -1,0 +1,4 @@
+- 👋 I’m teqi, call me "teach"
+- 🧑‍💻 ape, web3 dev and pixel artist
+- 🎁 building NiftyGifty, a utility-first NFT project about giving back in the community
+- 📧 teqi.eth, @boredape7275, teqi#1098, mail@teqi.dev
